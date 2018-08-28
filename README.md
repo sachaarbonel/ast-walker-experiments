@@ -1,5 +1,5 @@
 # ast-walker-experiments
-Golang experiments (learning go the hard way)
+Golang experiments / learning go
 
 ```
 go get github.com/nirasan/ast-walker
